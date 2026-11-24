@@ -1,0 +1,14 @@
+{
+  "product": "Mitra Work",
+  "current_version": "1.0.0",
+  "released_on": "2026-11-24",
+  "release_directory": "releases/1.0.0",
+  "reference": "GREENFIELD.md",
+  "project_instructions": "PROJECT-INSTRUCTIONS.txt",
+  "first_session": "FIRST-SESSION.txt",
+  "complete_kit": "releases/1.0.0/Mitra-Work-v1.0.0.zip",
+  "reference_sha256": "098fe51b6ef0eae0012ce419a925d7533589272d960e476e37f25b8fea9818f6",
+  "project_instructions_sha256": "77a4b80cd5a6e99ab6d08c3569d1901a478caee50fe3837744824cd405a1cb57",
+  "complete_kit_sha256": "6c18c8a5cc3c680c4a20ab966b79cec4062cfc31c062e8f0d00b842aee2c4099",
+  "update_model": "Deliberate versioned import; workplace context and local adaptations remain in employer-approved systems."
+}

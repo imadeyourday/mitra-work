@@ -1,0 +1,112 @@
+{
+  "files": {
+    "ACCEPTANCE-EXERCISES.md": {
+      "bytes": 4988,
+      "sha256": "b5d243d699949f6738568a6eaabd0e27247e9d4e15c24fb174503a19c4ea61d4"
+    },
+    "FIRST-SESSION.txt": {
+      "bytes": 1035,
+      "sha256": "932db30821be8cff190292a09d1129f20f86c8ec90a2d38e3365bce5c0435872"
+    },
+    "GREENFIELD-REFERENCE.md": {
+      "bytes": 58637,
+      "sha256": "098fe51b6ef0eae0012ce419a925d7533589272d960e476e37f25b8fea9818f6"
+    },
+    "MAINTENANCE.md": {
+      "bytes": 3187,
+      "sha256": "ba6c968c8360d918371bb1aaac9ee4c8e97ae6a7c7e792853d680350e5627686"
+    },
+    "PROJECT-INSTRUCTIONS.txt": {
+      "bytes": 2697,
+      "sha256": "77a4b80cd5a6e99ab6d08c3569d1901a478caee50fe3837744824cd405a1cb57"
+    },
+    "RELEASE.json": {
+      "bytes": 810,
+      "sha256": "18cc76491283db896d68365b9dedf9ebf57d510343ba564860daf882defad5d5"
+    },
+    "START-HERE.md": {
+      "bytes": 4001,
+      "sha256": "901711eb72c1d4f0d90e075f7fb25b90e2cb415f8cb5e538ee6dd414c0447cc8"
+    },
+    "skill-zips/mitra-continue-execute-1.0.0.zip": {
+      "bytes": 11261,
+      "sha256": "edaab3fdf2bf9de87dd9d50b6ba5648d794b41fadd5d05f1ec4f7c0f915c74b4"
+    },
+    "skill-zips/mitra-organize-handoff-1.0.0.zip": {
+      "bytes": 11886,
+      "sha256": "cf52f6ccdf3dfb4a5d146f8cd2aa970f6d737adfd40663e132a8d2b1ad8aa9b9"
+    },
+    "skill-zips/mitra-research-judge-1.0.0.zip": {
+      "bytes": 11717,
+      "sha256": "4f6b9cc72bf35dfeb333fa8fcc76f93bec2fcb4547fe6c46be2d86677a64a80f"
+    },
+    "skill-zips/mitra-review-improve-1.0.0.zip": {
+      "bytes": 11231,
+      "sha256": "d5cef1caa383ee4afc1ccf50f19b5c9da0e5d0958482e0c3c15d75b83e8fee1f"
+    },
+    "skills/mitra-continue-execute/SKILL.md": {
+      "bytes": 3331,
+      "sha256": "08806cc7480607b839f68487c180bc0d8bdac7213ce16c0a4e570ede8c16b70b"
+    },
+    "skills/mitra-continue-execute/references/workflow.md": {
+      "bytes": 6343,
+      "sha256": "56b61790350942993849badd98c3fc2a6d9051987cc3ddcaf56625e86d4f30e4"
+    },
+    "skills/mitra-continue-execute/templates/continuation.md": {
+      "bytes": 1089,
+      "sha256": "ee6f530f506ad459b1bbe20f613a94ccd20e8eb1b1dafaa3a22cc9d3b87c4783"
+    },
+    "skills/mitra-organize-handoff/SKILL.md": {
+      "bytes": 3405,
+      "sha256": "eeae070e66c64f0070bd55fb19dc8317c75b73b1b2977f947768f0214fd80ec0"
+    },
+    "skills/mitra-organize-handoff/references/workflow.md": {
+      "bytes": 6875,
+      "sha256": "d2694b6763f642fd44b5be812dbe1e7e6b6928037fbd6ee499cf2800dad63ec0"
+    },
+    "skills/mitra-organize-handoff/templates/continuation-record.md": {
+      "bytes": 1094,
+      "sha256": "e19c2d78e04142802cc2b0c9344c36c23505dc351c051c268d10b3af481d8d99"
+    },
+    "skills/mitra-research-judge/SKILL.md": {
+      "bytes": 3283,
+      "sha256": "5767a2208dc062f0dd0f598c9ce7dafef5b9ad02afdc2faf4d971d23b80e2c50"
+    },
+    "skills/mitra-research-judge/references/workflow.md": {
+      "bytes": 6842,
+      "sha256": "40d220aaaad767847383169c1835bd6bb083ec5aa35477ca61ec22f8707089be"
+    },
+    "skills/mitra-research-judge/templates/decision.md": {
+      "bytes": 1114,
+      "sha256": "ec9b2853197fb536e99b4fe7ad94418bc07dbfcefdd46a681224d02e63292c90"
+    },
+    "skills/mitra-review-improve/SKILL.md": {
+      "bytes": 3303,
+      "sha256": "8151ccf31111a3f11ee0e482300cdb99829794d14ec48ed74e6626cdb7f9baf3"
+    },
+    "skills/mitra-review-improve/references/workflow.md": {
+      "bytes": 6438,
+      "sha256": "3ba1126a2b01b3158f182d5c0cdd38917333043b2ee9cd06d541b941f5f1c3dc"
+    },
+    "skills/mitra-review-improve/templates/review-record.md": {
+      "bytes": 1002,
+      "sha256": "98b090f19df0181db1c2de6fdaa48da6567ad4196a64e3e357735ef0c23c3820"
+    },
+    "templates/CURRENT.md": {
+      "bytes": 648,
+      "sha256": "1185fe188180ab5cad90cedccc044a7a71f4ad3684c6cdd68ca72a0deb16a736"
+    },
+    "templates/DECISION.md": {
+      "bytes": 499,
+      "sha256": "cc22a08d93e0957207d60cf5199c8d24b6f7394cae61a40966c49620e9803d23"
+    },
+    "templates/LOCAL-ADAPTATIONS.md": {
+      "bytes": 602,
+      "sha256": "8e323d662fc3649fd1cf8d5e660a89bb4ced99b4bec55593341d41684d80048c"
+    }
+  },
+  "hash_algorithm": "sha256",
+  "product": "Mitra Work",
+  "release_version": "1.0.0",
+  "scope": "All release files except this manifest; integrity metadata is not an authenticity signature."
+}

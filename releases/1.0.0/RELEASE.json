@@ -1,0 +1,22 @@
+{
+  "product": "Mitra Work",
+  "release_version": "1.0.0",
+  "released_on": "2026-11-24",
+  "format": "portable-greenfield-reference-and-native-skills",
+  "maintainer": "Mitra",
+  "modules": [
+    "mitra-continue-execute",
+    "mitra-research-judge",
+    "mitra-review-improve",
+    "mitra-organize-handoff"
+  ],
+  "bundled_executable_code": false,
+  "external_runtime_dependencies": [],
+  "automatic_update": false,
+  "telemetry": false,
+  "workplace_data_return": false,
+  "reference_mode": "Project instructions plus standalone reference",
+  "native_skills_mode": "Optional focused Skill uploads using the employer runtime",
+  "state_storage": "Existing employer-approved records; no storage service installed",
+  "update_model": "Deliberate one-way versioned import; separate employer-local adaptations"
+}
